@@ -1,11 +1,9 @@
-[submodule "data"]
-	path = data
-	url = https://github.com/Maaiins/Docker-SymfonyData
-
 [submodule "nginx"]
 	path = nginx
-	url = https://github.com/Maaiins/Docker-SymfonyNginx
-
+	url = https://github.com/Maaiins/Docker-SymfonyNginx.git
 [submodule "php-fpm"]
 	path = php-fpm
-	url = https://github.com/Maaiins/Docker-SymfonyPHP-fpm
+	url = https://github.com/Maaiins/Docker-SymfonyPHP-fpm.git
+[submodule "data"]
+	path = data
+	url = https://github.com/Maaiins/Docker-SymfonyData.git
