@@ -1,0 +1,11 @@
+[submodule "data"]
+	path = data
+	url = https://github.com/Maaiins/Docker-SymfonyData
+
+[submodule "nginx"]
+	path = nginx
+	url = https://github.com/Maaiins/Docker-SymfonyNginx
+
+[submodule "php-fpm"]
+	path = php-fpm
+	url = https://github.com/Maaiins/Docker-SymfonyPHP-fpm
