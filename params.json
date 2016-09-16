@@ -1,0 +1,6 @@
+{
+  "name": "Docker-symfony",
+  "tagline": "",
+  "body": "[![](https://img.shields.io/badge/license-AGPL%20v3-blue.svg)](https://github.com/Maaiins/Docker-Symfony/blob/master/LICENSE 'Project Licence')\r\n\r\n# Docker-Symfony\r\n\r\n### Usage\r\n\r\nClone repository:\r\n\r\n    $ git clone https://github.com/Maaiins/Docker-Symfony.git\r\n    $ cd Docker-Symfony\r\n\r\nEdit the `docker-compose.yml` for your needs\r\n\r\nTry run:\r\n\r\n    $ docker compose up --build",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
